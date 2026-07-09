@@ -62,5 +62,3 @@ npm test
 ## Documentação de IA
 
 Detalhes sobre o uso de Inteligência Artificial no desenvolvimento: [AI_USAGE.md](./AI_USAGE.md)
-
-Visão geral do projeto e alinhamento com o desafio: [INFORMACOES.md](./INFORMACOES.md)
